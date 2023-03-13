@@ -1,0 +1,5 @@
+Author: Patrick Tibbals
+
+This script is responsible for successfully multithreading matrix multiplication.
+The other scripts in this program were not created by the author and were hence redacted.
+The 'prodcons.c' program will handle a variable size buffer and number of consumer/producer threads.

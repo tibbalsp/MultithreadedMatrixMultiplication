@@ -3,7 +3,9 @@
  *
  *  prodcons module
  *  Producer Consumer module
- *
+ *	
+ * 	Manages the buffer to generate and multiple the desired quantity of operations
+ * 
  */
 
 // Include only libraries for this module
